@@ -39,7 +39,9 @@
   },
   "keywords": [
     "nuxt",
-    "test"
+    "test",
+    "ava",
+    "jest"
   ],
   "license": "SEE LICENSE IN LICENSE",
   "bugs": {

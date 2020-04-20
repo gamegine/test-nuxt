@@ -1,6 +1,6 @@
 # nuxt-test
 
-> nuxt js unit testing
+nuxt js unit testing
 
 ## Build Setup
 
@@ -20,3 +20,16 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+## Test
+
+```bash
+# install dependencies
+$ npm install
+
+# run test ava
+$ npm run test-ava
+
+# run test jest
+$ npm run test-jest
+```
