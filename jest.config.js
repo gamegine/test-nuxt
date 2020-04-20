@@ -18,5 +18,5 @@ module.exports = {
     '<rootDir>/components/**/*.vue',
     '<rootDir>/pages/**/*.vue'
   ],
-  "roots": ["test-jest"]
+  roots: ['test-jest']
 }
