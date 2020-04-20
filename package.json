@@ -1,0 +1,39 @@
+{
+  "name": "nuxt-test",
+  "version": "1.0.0",
+  "description": "nuxt js unit testing",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "precommit": "npm run lint"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/eslint-config": "^2.0.0",
+    "@nuxtjs/eslint-module": "^1.0.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^6.1.0",
+    "eslint-plugin-nuxt": ">=0.4.2"
+  },
+  "main": "null",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gamegine/nuxt-test.git"
+  },
+  "keywords": [
+    "nuxt",
+    "test"
+  ],
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/gamegine/nuxt-test/issues"
+  },
+  "homepage": "https://github.com/gamegine/nuxt-test#readme",
+  "author": "gamegine <gamegine@protonmail.com> (https://github.com/gamegine)"
+}
